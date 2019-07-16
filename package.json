@@ -9,6 +9,6 @@
   "author": "Pierre-Gilles Leymarie",
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
-    "mqtt": "^1.10.0"
+    "mqtt": "^3.0.0"
   }
 }
